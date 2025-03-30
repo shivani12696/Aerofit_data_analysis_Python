@@ -1,5 +1,6 @@
 # Aerofit_data_analysis_Python
-![image](https://github.com/user-attachments/assets/ed9855dd-5be6-45c2-b795-d6734d965b2b)
+![image](https://github.com/user-attachments/assets/e57e10ae-57de-416e-bc5b-db2d6701fe1b)
+
 
 About Aerofit: 
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product 
