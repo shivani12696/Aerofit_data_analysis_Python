@@ -12,4 +12,4 @@ Task:
 characteristics of the target audience for each type of treadmill offered by the company, 
 to provide a better recommendation of the treadmills to the new customers.  
 
-Colab link for the project: https://colab.research.google.com/drive/1XhpLvVcWwMxCsFO5CDzW23SIYkFmOQHd?usp=sharing
+
