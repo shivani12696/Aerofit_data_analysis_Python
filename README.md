@@ -15,7 +15,7 @@ to provide a better recommendation of the treadmills to the new customers.
 **Solution:** 
 
 
-KP281:  
+**KP281:** 
 1. This product is for beginners.   
 2. People of all age group use KP281, but maximum users fall in the age group 20 to 30 
 years.  
@@ -30,8 +30,10 @@ running and typically use it for 2 to 4 times a week.
 users of this product is $ 46,617. Hence company should consider the income range 
 while choosing the customers for this product.  
 7. Since income and miles are correlated, people who run consistently but less miles lie in 
-this product category.  
-KP481: 
+this product category.
+
+**KP481:**
+
 1. This product is for intermediate users.  
 2. Most of the users fall in the age group 20 to 35 years.  
 3. Chances of male users buying this treadmill is 30% and female user buying this 
@@ -41,8 +43,10 @@ years).
 5. Company should focus on users who run 2 to 4 times per week.  
 6. Minimum income of users is $ 31836, maximum is $ 67083, and median income of users 
 of this product is $ 49459.5. Hence company should consider the income range while 
-choosing the customers for this product. 
-KP781: 
+choosing the customers for this product.
+
+**KP781:** 
+
 1. This product is for users who are fitness enthusiasts 
 2. Among KP781 users, ~83% users are male, which shows that male population is a 
 perfect group to focus on for this group, but also significant focus can be given on 
